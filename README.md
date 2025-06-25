@@ -8,6 +8,12 @@ I'm a freelancer focused on design, websites, and custom systems.
 - ⚙️ Frontend & Backend Development
 - 🧠 UX, UI, and Branding Solutions
 
+## Languages, Frameworks, Platforms
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ## 💼 Projects
 
 Check out my work at:
@@ -23,12 +29,3 @@ Let's connect:
 ---
 
 *Made with love with milkleaf*
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
