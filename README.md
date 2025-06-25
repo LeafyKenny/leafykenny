@@ -2,20 +2,6 @@
 
 I'm a freelancer focused on design, websites, mobile applications, and custom systems. I am aiming for full stack development in Website and Mobile Development
 
-## What I Do
-
-[Tech]
-- Website Development
-- System Development
-- Mobile Application Development
-- Networking
-- Hardware
-
-[Graphic]
-- Graphic Design
-- Website Design
-- Digital Marketing
-
 ## Languages, Frameworks, Platforms
 
 Programming Languages: 
@@ -67,6 +53,22 @@ Design and Prototyping:
 Check out my work at:
 - 🌐 [www.kenryancalvez.com](https://kenryancalez.com) *(replace with your link)*
 - 📂 [My Repositories](https://github.com/leafykenny?tab=repositories)
+
+
+## What I Do
+
+[Tech]
+- Website Development
+- System Development
+- Mobile Application Development
+- Networking
+- Hardware
+
+[Graphic]
+- Graphic Design
+- Website Design
+- Digital Marketing
+
 
 ## Contact
 
