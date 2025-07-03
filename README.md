@@ -73,8 +73,8 @@ Check out my work at:
 ## Contact
 
 Let's connect:
-- Email: `your-email@example.com`
-- LinkedIn / Facebook / Other: `@yourhandle`
+- Email: `hello@kenryancalvez.com`
+- LinkedIn `linkedin.com/in/kenryancalvez`
 
 ---
 
