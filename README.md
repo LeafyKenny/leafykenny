@@ -73,9 +73,7 @@ Check out my work at:
 ## Contact
 
 Let's connect:
-- Email: `hello@kenryancalvez.com`
-- LinkedIn `linkedin.com/in/kenryancalvez`
-
+- Email: `hello@milkleaf.net`
 ---
 
 *Made with love with milkleaf*
