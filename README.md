@@ -51,7 +51,7 @@ Design and Prototyping:
 ## Projects
 
 Check out my work at:
-- 🌐 [www.kenryancalvez.com](https://kenryancalez.com) *(replace with your link)*
+- 🌐 [www.kenryancalvez.com](https://kenryancalez.com)
 - 📂 [My Repositories](https://github.com/leafykenny?tab=repositories)
 
 
